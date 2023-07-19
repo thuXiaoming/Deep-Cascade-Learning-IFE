@@ -31,3 +31,5 @@ Due to the privacy issue, we cannot distribute the original IFE dataset used in 
 
 | Number | IgAk | IgAL | IgGk | IgGL | IgMk | IgML | k | L | Negative |
 | --- | --- | --- | --- |--- | --- | --- | --- | --- |--- |
+| Number | IgAk | IgAL | IgGk | IgGL | IgMk | IgML | k | L | Negative |
+| --- | --- | --- | --- |--- | --- | --- | --- | --- |--- |
