@@ -37,4 +37,5 @@ Because the number of negative samples is so large (over 17000), we will release
 
 # Reference
 [1] X. An, P. Li, and C. Zhang, “Deep Cascade-Learning Model via Recurrent Attention for Immunofixation Electrophoresis Image Analysis,” IEEE Transactions on Medical Imaging, under revision, 2023.
+
 [2] X. -Y. Wei et al., “Deep collocative learning for immunofixation electrophoresis image analysis,” IEEE Transactions on Medical Imaging, vol. 40, no. 7, pp. 1898-1910, Jul. 2021.
