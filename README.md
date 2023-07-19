@@ -29,5 +29,5 @@ Environment: Python 3.6.10; tensorflow-gpu 1.3.0.
 # Dataset
 Due to the privacy issue, we cannot distribute the original IFE dataset used in the paper "Deep Cascade-Learning Model via Recurrent Attention for Immunofixation Electrophoresis Image Analysis". However, we create a simulated dataset that owns similar distributions as the original one. Our clinicians have gone through the dataset to make sure that it resembles the original one to the maximum extent. The dataset is in the file "IFE_Simulated_Data". We hope it can help initiate your IFE study and verify your methods. The distribution of our dataset is as follows.
 
-| Number | IgA$\lambda$ |
-| --- | --- |
+| Number | IgAk | IgAL | IgGk | IgGL | IgMk | IgML | k | L | Negative |
+| --- | --- | --- | --- |--- | --- | --- | --- | --- |--- |
